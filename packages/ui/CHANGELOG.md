@@ -1,5 +1,11 @@
 # cosmic-design
 
+## 0.0.34
+
+### Patch Changes
+
+-   [#109](https://github.com/design-to-release/cosmic-design/pull/109) [`028051f`](https://github.com/design-to-release/cosmic-design/commit/028051f612ef577ff9bd634ef5431ae40eae5ace) Thanks [@wasaisai](https://github.com/wasaisai)! - feat: add avatar by wasaisai
+
 ## 0.0.33
 
 ### Patch Changes
